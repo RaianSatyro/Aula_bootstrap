@@ -1,5 +1,5 @@
 .navbar {
-    background-color: #05445E  ;
+    background-color: #00478F  ;
 }
 
 .navbar-nav .nav-item .nav-link {
@@ -11,7 +11,12 @@
 }
 
 .quem-somos{
-    background-color: #189AB4 ;
+    background-color: #2A231F ;
+    color: #ffffff
+}
+
+#quemsomos {
+    max-width: 100vw;
 }
 
 .padding-quemsomos{
@@ -23,14 +28,18 @@
 .tex-quemsomos{
     padding: 30px;
 }
+.text-lorem{
+    margin: 0 100px 0 100px;
+}
 
 #parceiros {
-    background-color: #75E6DA;
+    background-color: #D8E1E7;
     padding-bottom:10px;
+    color: #000000
 }
 
 #servicos {
-    background-color: #D4F1F4;
+    background-color: #FF5D00;
     padding-bottom: 50px;
 }
 
